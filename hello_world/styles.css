@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+}
+
+h1 {
+    color: coral;
+    background-color: steelblue;
+}
+p{
+    color: slateblue;
+    background-color: tomato;
+}
